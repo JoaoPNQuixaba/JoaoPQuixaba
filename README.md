@@ -1,4 +1,5 @@
-## Oiii eu sou a João Pedro Quixaba, estudante de tecnologia, cursando ciência da computação!
+## Prazer, João Pedro Quixaba!!
+Sou estudante de tecnologia, cursando ciência da computação!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Quixaba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
