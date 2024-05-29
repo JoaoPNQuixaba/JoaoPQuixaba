@@ -1,6 +1,9 @@
-## Prazer, João Pedro Quixaba!!
+<div align="center"> 
+<h2> Prazer, João Pedro Quixaba!! </h2>
+<div align="center"> 
 Estudante de tecnologia, cursando Ciência da Computação! <br>
 Technology student, Computer Science!
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Quixaba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,4 +20,5 @@ Technology student, Computer Science!
   <a href = "mailto:joaopquixaba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-quixaba-06a7a92b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
 </div>
