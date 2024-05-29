@@ -1,5 +1,5 @@
 ## Prazer, João Pedro Quixaba!!
-Estudante de tecnologia, cursando Ciência da Computação!
+Estudante de tecnologia, cursando Ciência da Computação! <br>
 Technology student, Computer Science!
 
 <div style="display: inline_block"><br>
